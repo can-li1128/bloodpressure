@@ -1,7 +1,7 @@
 ---
 title: "Systolic Blood Pressure"
 author: "Can Li"
-date: "`r format(Sys.Date())`"
+date: "01/26/2021"
 output: html_document
 ---
 
